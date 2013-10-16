@@ -12,7 +12,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 Dagur var með Ubuntu 13.04 installað á tölvunni sinni. Aron átti skrautleg reynslu af uppsetningu á Ubuntu. fyrst var bottad fra usb sem virkadi bara ekki (sjá mynd). svo var prófað frá öðrum usb lykli sem vitað var að virkaði en ekki tóks að installa vim eða git. síðan var prófað git gui for windows þar sem að kennari hafði mælt með því á facebook, en ekki fundust nægjanlegar leiðbeiningar til að fá það til að virka (og okkar eigin prufur skiluðu engum niðurstöðum). skelin var líka prófur en okkur vantaði nægjanlegar heimildir til að búa til ssh lykil á endanum var ákveðið að Aron myndi vinna í tölvunni hanns dags.
 ![pirr](http://i1022.photobucket.com/albums/af345/gardyna100292/IMG837.jpg?raw=true)
 
-![Dagur boot](http://i1022.photobucket.com/albums/af345/gardyna100292/IMG839.jpg?raw=true)
+![Dagurboot](http://i1022.photobucket.com/albums/af345/gardyna100292/IMG839.jpg?raw=true)
 
 ## 2. Uppsetning á vim && git
 
